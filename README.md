@@ -1,8 +1,6 @@
-# QWEL CREATIVE TEMPLATE
+# 炎 | Flame
 
-[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
-
-[https://qwel.design/creative/](https://qwel.design/creative/)
+Vanilla JS で、パーティクルの性質を定義して作成した炎のビジュアル表現  
 
 ---
 
